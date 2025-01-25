@@ -1,5 +1,5 @@
 # Walking Bread
-Entry for ScoreSpace  Jam #33 (https://itch.io/jam/scorejam33)
+<a href="https://itch.io/jam/scorejam33">Entry for ScoreSpace Jam #33</a>
 # About
 You are *Professor Glutenous Maximus*. You are in charge of a horde of bread-loving zombies, but the pesky store security doesn't take kindly to shoplifters - living or dead! Organise your zombies, send your troops into a **charge**, charging up their attacks and releasing them at *just the right time* to score as high as possible!
 # Stack
