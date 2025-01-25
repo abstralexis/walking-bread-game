@@ -1,0 +1,11 @@
+[package]
+name = "walking-bread-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+miniquad = "0.4.7"
+reqwest = "0.12.12"
+rust-env = "0.1.0"
+tokio = "1.43.0"
